@@ -1,4 +1,7 @@
 # DASJEA.
+# LOGOTIPO
+![DASJEA  ](https://github.com/dasjea/DASJEA-/assets/136353926/9b4711c6-0416-4560-98b2-c3d5cec360a2)
+
 # ⭐COMPONENTE METODOLOGICO:
 
 # ALCANCE
